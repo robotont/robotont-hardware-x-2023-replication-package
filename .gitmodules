@@ -2,3 +2,6 @@
 	path = mechanics/robotont-mechanics
 	url = https://github.com/robotont/robotont-mechanics
 	branch = Ver-2.1
+[submodule "firmware/robotont-firmware"]
+	path = firmware/robotont-firmware
+	url = https://github.com/robotont/robotont-firmware
