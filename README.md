@@ -35,6 +35,7 @@ This replication package is structured as follows:
   mechanics/                                 Design files for manufacturing ROBOTONT gen2.1
     robotont-mechanics/
   software/                                  ROS Noetic software packages for ROBOTONT gen2.1
+    robotont-setup/
     robotont_demos/
     robotont_description/
     robotont_driver/
@@ -43,7 +44,6 @@ This replication package is structured as follows:
     robotont_msgs/
     robotont_navigation/
     robotont_nuc_description/
-    robotont-setup/
     robotont_support/
     robotont_webapp/
   robotont-2.1-assembly-instructions.pdf     Assembly instructions for ROBOTONT gen2.1
