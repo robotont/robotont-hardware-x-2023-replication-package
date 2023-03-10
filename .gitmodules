@@ -1,0 +1,4 @@
+[submodule "mechanics/robotont-mechanics"]
+	path = mechanics/robotont-mechanics
+	url = https://github.com/robotont/robotont-mechanics
+	branch = Ver-2.1
