@@ -5,3 +5,36 @@
 [submodule "firmware/robotont-firmware"]
 	path = firmware/robotont-firmware
 	url = https://github.com/robotont/robotont-firmware
+[submodule "software/robotont_driver"]
+	path = software/robotont_driver
+	url = https://github.com/robotont/robotont_driver
+[submodule "software/robotont_description"]
+	path = software/robotont_description
+	url = https://github.com/robotont/robotont_description
+[submodule "software/robotont_nuc_description"]
+	path = software/robotont_nuc_description
+	url = https://github.com/robotont/robotont_nuc_description
+[submodule "software/robotont_msgs"]
+	path = software/robotont_msgs
+	url = https://github.com/robotont/robotont_msgs
+[submodule "software/robotont_navigation"]
+	path = software/robotont_navigation
+	url = https://github.com/robotont/robotont_navigation
+[submodule "software/robotont_webapp"]
+	path = software/robotont_webapp
+	url = https://github.com/robotont/robotont_webapp
+[submodule "software/robotont_support"]
+	path = software/robotont_support
+	url = https://github.com/robotont/robotont_support
+[submodule "software/robotont_gazebo"]
+	path = software/robotont_gazebo
+	url = https://github.com/robotont/robotont_gazebo
+[submodule "software/robotont_laserscan_to_distance"]
+	path = software/robotont_laserscan_to_distance
+	url = https://github.com/robotont/robotont_laserscan_to_distance
+[submodule "software/robotont_demos"]
+	path = software/robotont_demos
+	url = https://github.com/robotont/robotont_demos
+[submodule "software/robotont-setup"]
+	path = software/robotont-setup
+	url = https://github.com/robotont/robotont-setup
