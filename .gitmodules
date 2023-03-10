@@ -38,3 +38,12 @@
 [submodule "software/robotont-setup"]
 	path = software/robotont-setup
 	url = https://github.com/robotont/robotont-setup
+[submodule "electronics/robotont-electronics-driver-board"]
+	path = electronics/robotont-electronics-driver-board
+	url = https://github.com/robotont/robotont-electronics-driver-board
+[submodule "electronics/robotont-electronics-power-management-board"]
+	path = electronics/robotont-electronics-power-management-board
+	url = https://github.com/robotont/robotont-electronics-power-management-board
+[submodule "electronics/robotont-electronics-nucleo-shield"]
+	path = electronics/robotont-electronics-nucleo-shield
+	url = https://github.com/robotont/robotont-electronics-nucleo-shield
