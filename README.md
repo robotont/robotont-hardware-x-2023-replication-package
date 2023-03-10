@@ -30,7 +30,7 @@ This replication package is structured as follows:
     robotont-electronics-driver-board/
     robotont-electronics-nucleo-shield/
     robotont-electronics-power-management-board/
-  firmware/                                  Firmware for ROBOTONT gen2.1 driver
+  firmware/                                  Firmware for ROBOTONT gen2.1 microcontroller
     robotont-firmware/
   mechanics/                                 Design files for manufacturing ROBOTONT gen2.1
     robotont-mechanics/
