@@ -1,9 +1,9 @@
 # HardwareX 2023 - Replication package
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7897546.svg)](https://doi.org/10.5281/zenodo.7897546)
 
-This repository contains the replication package of the paper submitted to HardwareX with the title **ROBOTONT – open-source and ROS-supported omnidirectional mobile robot for education and research**.
+This repository contains the replication package of the paper published in HardwareX with the title **[ROBOTONT – Open-source and ROS-supported omnidirectional mobile robot for education and research](https://doi.org/10.1016/j.ohx.2023.e00436)**.
 
 The repository contains a snapshot of Robotont's development that is coherent to ensure a workable set of mechanics, electronics, and software to replicate the state presented in the paper. However, we encourage everyone to access the latest state of development in each linked repository.
-
 
 ## How to cite this content
 ---
@@ -11,11 +11,14 @@ If the content in this repository is helping your research, please cite us as fo
 
 ```
 @article{robotont_hardwarex_2023,
-  title={ROBOTONT – open-source and ROS-supported omnidirectional mobile robot for education and research},
+  title={ROBOTONT – Open-source and ROS-supported omnidirectional mobile robot for education and research},
   author={Renno Raudmäe and Sandra Schumann and Veiko Vunder and Maarika Oidekivi and Madis Kaspar Nigol and Robert Valner and Houman Masnavi and Arun Kumar Singh and Alvo Aabloo and Karl Kruusamäe},
   journal = {HardwareX},
+  volume = {14},
+  pages = {e00436},
   year = {2023},
-  doi={tbd},
+  issn = {2468-0672},
+  doi = {https://doi.org/10.1016/j.ohx.2023.e00436},
   publisher={Elsevier}
 }
 ```
